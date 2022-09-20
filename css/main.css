@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+}
+.container{
+    margin-top: 40px;
+    background-color: black;
+}
+.card{
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    box-shadow: 10px 10px 10px rgb(33, 6, 54);
+}
